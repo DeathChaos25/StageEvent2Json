@@ -21,6 +21,7 @@ CHARACTER VALUES FOR THE DANCE PARTNER COMMAND:
 	Nanako = 10,  
 	Marie = 12,  
 	Adachi = 13,  
+        Miku = 14,  
 	MakotoYuki = 101,  
 	Yukari = 102,  
 	Junpei = 103,  
