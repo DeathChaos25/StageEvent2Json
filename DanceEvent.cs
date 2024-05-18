@@ -100,6 +100,7 @@ public enum CharID : ushort
     Nanako = 10,
     Marie = 12,
     Adachi = 13,
+    Miku = 14,
     MakotoYuki = 101,
     Yukari = 102,
     Junpei = 103,
